@@ -3102,9 +3102,9 @@
                              ]
                },
     "bundle":  {
-                   "version":  "1.0.0",
-                   "size":  91555838,
-                   "sha256":  "0aba8c633a391c83da9d897c691340e5842b619a626a556d0abbfd8c06b6ea8f",
-                   "url":  "https://github.com/glaporte777-tbg/apocalypsis-uo-launcher/releases/download/bundle-1.0.0/bundle-1.0.0.zip"
+                   "version":  "1.0.1",
+                   "size":  91471848,
+                   "sha256":  "3dcf117dba34a1aafc5c6f47c5b0c0159fedf4d14fa7ef3bb56913ee66bb1c5d",
+                   "url":  "https://github.com/glaporte777-tbg/apocalypsis-uo-launcher/releases/download/bundle-1.0.1/bundle-1.0.1.zip"
                }
 }
