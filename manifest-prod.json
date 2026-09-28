@@ -7,7 +7,7 @@
                    "name":  "Apocalypsis UO"
                },
     "client":  {
-                   "version":  "7.0.24.0",
+                   "version":  "7.0.117.0",
                    "files":  [
                                  {
                                      "path":  "anim.idx",
