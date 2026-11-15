@@ -1110,8 +1110,8 @@
                                  {
                                      "path":  "map1LegacyMUL.uop",
                                      "size":  89965543,
-                                     "sha256":  "4a8eb1b99f4ffa30d3ff20000a42590fb6634fc7d5f35ec432f7eac5e2176ed4",
-                                     "url":  "https://drive.usercontent.google.com/download?id=1tDP3dYN8bqaCZ2gfKtYew_MgivfqsLUu\u0026export=download\u0026confirm=t"
+                                     "sha256":  "ec689377e511fa6094baaeeb6e69863a1d075661589871f30a3db466527bca17",
+                                     "url":  "https://drive.usercontent.google.com/download?id=1VpHzTSVEPsO0ct5KuCVf_E2I5rzntCu8\u0026export=download\u0026confirm=t"
                                  },
                                  {
                                      "path":  "map1xLegacyMUL.uop",
@@ -1584,8 +1584,8 @@
                                  {
                                      "path":  "staidx0.mul",
                                      "size":  5505024,
-                                     "sha256":  "cdd4a522307af7131f5efa7486cb336bfa7a65e83a76a9e51b866fca87e44fe9",
-                                     "url":  "https://drive.usercontent.google.com/download?id=1VPL9n-2VFi78y28asoyeg9Ou8XUglHSJ\u0026export=download\u0026confirm=t"
+                                     "sha256":  "8f0ab4728dbf272dee18fbf854133e6ff2abeb037382db37c42d7ac53cde2f16",
+                                     "url":  "https://drive.usercontent.google.com/download?id=175GSwbPWrYE4vmqv8Ss4hwEnqciws00T\u0026export=download\u0026confirm=t"
                                  },
                                  {
                                      "path":  "staidx0x.mul",
@@ -1596,8 +1596,8 @@
                                  {
                                      "path":  "staidx1.mul",
                                      "size":  5505024,
-                                     "sha256":  "cfd1517ef71c00596401edcf8894fffb1864162f1adf89a337cdc56442f5c548",
-                                     "url":  "https://drive.usercontent.google.com/download?id=1Ocd97YryhDlNE0tnoEPKG4_6rWHtA3TN\u0026export=download\u0026confirm=t"
+                                     "sha256":  "c8ebd875fd6cf09ef3de4643a171480b2b2635841d81a27a56fcd508f29b9059",
+                                     "url":  "https://drive.usercontent.google.com/download?id=1dw_83AAuCK1cq30Y_-1eHgBOZEEggLyb\u0026export=download\u0026confirm=t"
                                  },
                                  {
                                      "path":  "staidx1x.mul",
@@ -1649,9 +1649,9 @@
                                  },
                                  {
                                      "path":  "statics0.mul",
-                                     "size":  20460475,
-                                     "sha256":  "9443ee6450432254b3c5caf512f5d86016ae1a630af38d762ac9ac24a625b6ea",
-                                     "url":  "https://drive.usercontent.google.com/download?id=1cSrHzmzWNr3s8cmvXyfhMPld0cB7R97v\u0026export=download\u0026confirm=t"
+                                     "size":  20507032,
+                                     "sha256":  "c5a44e403f2c57ebe035335bae98281d4885c13bfedf44e0eeed41102dafb2b4",
+                                     "url":  "https://drive.usercontent.google.com/download?id=128vDBIVh_YN3R_-D2cimM20avMV-JrX3\u0026export=download\u0026confirm=t"
                                  },
                                  {
                                      "path":  "statics0x.mul",
@@ -1661,9 +1661,9 @@
                                  },
                                  {
                                      "path":  "statics1.mul",
-                                     "size":  20559469,
-                                     "sha256":  "c8d25cc72e9478e91c0280a4e01fe78d97a1b8470750b0c9c46e313f3517a802",
-                                     "url":  "https://drive.usercontent.google.com/download?id=1AocjNycg1i9LB8xHX1jWvKRSii4z0SFd\u0026export=download\u0026confirm=t"
+                                     "size":  20616778,
+                                     "sha256":  "71d60fcd22542db672dcdcf54b872dbcb55624f0ce7f42978afdfbf642081c20",
+                                     "url":  "https://drive.usercontent.google.com/download?id=1p063w8JfFIEUkUi2DYNjh8XLezfSeeTs\u0026export=download\u0026confirm=t"
                                  },
                                  {
                                      "path":  "statics1x.mul",
